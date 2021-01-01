@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding:0;
+}
+.card
+{
+   /* background-image: url("25.jpg");
+	height:600px;
+	width:1200px;*/
+}
+.header
+{
+	height:50vh;
+}
+
+.navbar-style
+{
+	box-shadow:0 5px 5px #ffefef;
+	text-transform:uppercase;
+	//background-color:black;
+	
+}
+li a 
+{
+    color:black;
+}
+.logo
+{
+	height:100px;
+	padding:10px 10px;
+}
+.icon-bar
+{
+background:black;
+}
+.big-text
+{
+
+	color:brown;
+	margin:20px 0;
+}
+.col-sm-3:hover
+{
+	box-shadow:10px 10px 10px #954;
+	transition:0.7s;
+	border:none;
+	
+}
+
+
+
+
+
+
